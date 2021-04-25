@@ -1,5 +1,5 @@
 import React,{useState} from 'react';
-import './App.css';
+import './Modals.css';
 import 'animate.css';
 
 function Modals({top,left,right, width,height,background,animation, border,modalHeader,modalBody,show,setShowModal}) {
